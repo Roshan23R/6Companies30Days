@@ -1,5 +1,5 @@
 //Question 4
-// Leetcode- 299. Bulls and Cows
+// LeetCode- 299. Bulls and Cows
 
 //TC - O(n)  SC - O(n)
 class Solution {
