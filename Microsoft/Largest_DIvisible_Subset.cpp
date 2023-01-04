@@ -1,6 +1,6 @@
 //Question 5
 //Leetcode - 368. Largest Divisible Subset
-// TC - O(N^2), SC - O(28N)
+// TC - O(N^2), SC - O(2*N)
 class Solution {
 public:
     vector<int> largestDivisibleSubset(vector<int>& nums) {
